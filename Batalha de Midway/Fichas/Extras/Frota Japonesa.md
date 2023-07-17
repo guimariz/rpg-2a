@@ -1,0 +1,5 @@
+Porta-aviões: A frota japonesa era liderada por quatro porta-aviões: Akagi, Kaga, Soryu e Hiryu. Esses porta-aviões carregavam aeronaves de combate e eram a principal força de ataque aéreo do Japão.
+Encouraçados: A frota japonesa incluía dois encouraçados, o Yamato e o Nagato, que eram poderosos navios de guerra com artilharia de grande calibre.
+Cruzadores: Os cruzadores japoneses, como o Mogami, Tone e Chikuma, forneciam apoio de fogo e defesa antiaérea à frota.
+Contratorpedeiros: Os contratorpedeiros japoneses, como o Fubuki e Akatsuki, faziam parte da escolta da frota e auxiliavam na defesa antiaérea e na proteção contra ameaças submarinas.
+Submarinos: Os submarinos japoneses, como o I-168 e I-19, também estavam presentes na frota, realizando patrulhas e ataques contra os navios inimigos.
