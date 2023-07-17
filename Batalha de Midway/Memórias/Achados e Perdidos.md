@@ -37,18 +37,57 @@ Jogadas de procura/observação
 
 Caso Sorte Alta:
     Chegam antes da batalha começar - Bonus de foco
+
+    Chegando antes da batalha começar, os pilotos ganham um tempo para visualizar o que está acontecendo no mar.
+    Todas as jogadas da primeira rodada de escolhas ganharão bonus de foco
+
+    Estados Unidos:
+
+    Porta-aviões: Os Estados Unidos tinham três porta-aviões presentes na batalha: USS Enterprise, USS Hornet e USS Yorktown.
+    Navios de guerra: Os EUA tinham dois encouraçados presentes na batalha: USS North Carolina e USS Washington.
+    Navios de escolta: A frota americana incluía vários navios de escolta, como contratorpedeiros e cruzadores, mas não há números exatos disponíveis.
+    Aviões: Os Estados Unidos implantaram aproximadamente 233 aeronaves durante a batalha. Essas aeronaves incluíam caças, bombardeiros e aviões de reconhecimento.
+    Japão:
+
+    Porta-aviões: O Japão tinha quatro porta-aviões presentes na batalha: Akagi, Kaga, Soryu e Hiryu.
+    Navios de guerra: O Japão tinha pelo menos dois encouraçados presentes na batalha: Yamato e Nagato.
+    Navios de escolta: O Japão também tinha uma frota de navios de escolta, mas os números exatos não estão disponíveis.
+    Aviões: O Japão implantou aproximadamente 248 aeronaves durante a batalha, incluindo caças, bombardeiros e aviões de reconhecimento.
+
 Caso Sorte Média:
     Chegam enquanto a batalha está acontecendo - bonus de furtividade
+    
+    Estados Unidos:
+
+    Porta-aviões: Os Estados Unidos tinham 2 porta-aviões presentes na batalha: USS Enterprise, USS Hornet. O  USS Yorktown foi derrubado
+    Navios de guerra: Os EUA tinham dois encouraçados presentes na batalha: USS North Carolina e USS Washington.
+    Navios de escolta: aviam 5 contratorpedos
+    Aviões: 50 aeronaves durante a batalha. Essas aeronaves incluíam caças, bombardeiros e aviões de reconhecimento.
+
+    Japão:
+
+    Porta-aviões: O Japão tinha quatro porta-aviões presentes na batalha: Akagi, Kaga, Soryu e Hiryu.
+    Navios de guerra: O Japão tinha um encouraçado presente na batalha: Yamato. Nagato Foi destruído
+    Navios de escolta: 50
+    Aviões: 70.
+
 Caso Sorte Baixa:
     Chegam e seus aliados foram derrotados
+    Japão:
 
-Combate:
-Perseguição:
-    Jogada de dado para Lock (Alinhar a mira):
-        Controle Aéreo + Perseguição
-        vs
-        Controle Aéreo + Evasão 
+    Porta-aviões: O Japão tinha quatro porta-aviões presentes na batalha: Akagi, Kaga e Soryu. Hiryu foi destruído.
+    Navios de guerra: O Japão tinha um encouraçado presente na batalha: Yamato. Nagato Foi destruído
+    Navios de escolta: 10
+    Aviões: 50.
 
-Tiros dos Navios:
-Sorte + Evasão
+Tática VT-8:
+    Essa tática envolvia voar em formação próxima até a área-alvo, geralmente em altitudes mais baixas para evitar detecção antecipada pelos caças inimigos. Em seguida, os torpedeiros realizavam um mergulho íngreme em direção aos navios inimigos, buscando lançar seus torpedos com precisão. 
 
+Combate Aéreo***
+
+Tiros dos Navios***
+
+Final:
+Não é possível ganhar
+Jogadas de sorte para Gay ficar à deriva
+Jogadas de sorte para sobrevivência/captura
